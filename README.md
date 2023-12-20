@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ray Marshall
+- 👀 I’m interested in Artificial intelligence 
+- 🌱 I’m currently learning coding languages
+- 💞️ I’m looking to collaborate on all software problems 
+- 📫 How to reach me Discord:  Ray.marshall
