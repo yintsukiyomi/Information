@@ -16,4 +16,4 @@ Hello! I'm Mehmet Arda Hakbilen, a second-year software engineering student spec
 Feel free to reach out if you have any questions or collaboration ideas:
 
 - 📧 **Email:** [Click Here](mailto:mehmethakbilen2005@gmail.com)
-- 💼 **LinkedIn:** [Mehmet Arda Hakbilen]
+- 💼 **LinkedIn:** [Mehmet Arda Hakbilen](https://www.linkedin.com/in/mehmet-arda-hakbilen-12aba6269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
