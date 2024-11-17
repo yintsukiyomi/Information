@@ -1,19 +1,19 @@
 # Mehmet Arda Hakbilen - Software Engineer
 
-Hello! I’m Mehmet Arda Hakbilen, a second-year software engineering student specializing in AI-powered projects. I focus on creating user-friendly interfaces and integrating effective artificial intelligence solutions into my projects.
+Hello! I'm Mehmet Arda Hakbilen, a second-year software engineering student specializing in cybersecurity. I'm passionate about building secure systems and protecting users from cyber threats. I focus on developing innovative solutions and staying ahead of the curve in the ever-evolving landscape of cybersecurity.
 
 ## About Me
-- 🎓 **Education:** Currently in my second year studying Software Engineering at the University of Ankara. I’m constantly expanding my knowledge in the tech field.
-- 💻 **Skills:** AI integration and user interface (UI) development.
-- 📊 **Projects:** Actively working on AI-driven projects like the **AInside** app, aiming to deliver innovative solutions that improve design and user experience.
-- 🌱 **Currently Learning:** Exploring open-source projects, AI integrations, and fantasy-themed UI design.
+- 🎓 **Education:** Currently in my second year studying Software Engineering at the University of Ankara. I'm constantly expanding my knowledge in cybersecurity and related fields.
+- 💻 **Skills:** Network security, ethical hacking, cryptography, threat analysis, and secure coding practices.
+- 📊 **Projects:** Actively working on security audits, penetration testing, and developing secure applications. I'm also contributing to open-source security tools.
+- 🌱 **Currently Learning:** Advanced persistent threats, cloud security, and blockchain security. I'm also exploring the application of AI in cybersecurity.
 
 ## Featured Projects
-### Project: AInside
-- **Description:** AInside is an AI-powered application designed to offer users interactive and fantasy-themed interfaces through artificial intelligence. I’ve integrated an AI system called **All-I** into the project to provide a personalized and dynamic user experience.
+### Project: AInSecure
+- **Description:** AInSecure is a security analysis tool designed to identify and mitigate vulnerabilities in web applications. It leverages AI algorithms (All-I) to detect patterns and anomalies indicative of potential threats, providing users with actionable insights to enhance their security posture.
 
 ## Contact
 Feel free to reach out if you have any questions or collaboration ideas:
 
-- 📧 **Email:** [mehmethakbilen2005@gmail.com](mailto:mehmethakbilen2005@gmail.com)
+- 📧 **Email:** [mehmetardahakbilen2005@gmail.com](mailto:mehmethakbilen2005@gmail.com)
 - 💼 **LinkedIn:** [Mehmet Arda Hakbilen]
