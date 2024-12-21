@@ -21,5 +21,6 @@ Hello! I'm Yin Tsukiyomi, a second-year software engineering student with a pass
 
 ## Contact
 Feel free to reach out for collaboration or game development discussions:
-📧 Email: Click Here
-💼 LinkedIn: Mehmet Arda Hakbilen
+
+- 📧 **Email:** [Click Here](mailto:mehmethakbilen2005@gmail.com)
+- 💼 **LinkedIn:** [Mehmet Arda Hakbilen]
